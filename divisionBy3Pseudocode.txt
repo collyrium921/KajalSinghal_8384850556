@@ -1,0 +1,6 @@
+-take input of both the numbers
+- create a function to get the number of sequences of a number divided by 3
+    if remainder == 0, return quotient*2
+    else return quotient*2+remainder-1
+- subtract the number of sequences divide by 3 of number1-1 from number2 to prevent duplicate sequences
+- print result
