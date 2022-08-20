@@ -1,0 +1,7 @@
+- declare reverse_num =0
+- declare temp variable and assign the original number
+- reverse the temp variable using while loop by taking each digit and adding it to reverse_num
+- check if num is equal to reverse_num
+- if true then return 'yes'
+- else return false 
+
