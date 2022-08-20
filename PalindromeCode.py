@@ -5,10 +5,10 @@ temp = num
 reverse_num =0;
 #reverse the digits of the number
 while temp>0:
-    digit = num%10
+    digit = temp%10
     reverse_num = reverse_num*10+digit
     temp=temp//10
 if(num == reverse_num):
-    return 'Yes'
+     print('Yes')
 else:
-    return 'No'     
+    print('No')     
